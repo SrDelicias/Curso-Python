@@ -24,3 +24,14 @@ print(len(my_varibale))
 name, surname, alias, age = "Alberto", "Bello", "SrDelicias", 33
 print(name, surname, alias, age)
 print("Me llamo:", name, surname, ". Mi edad es:", age, ". Mi alias es:",alias)
+
+# Inputs
+name = input(" ¿Cual es tu nombre? ")
+age = input(" ¿Cuantos años tienes? ")
+
+print(name)
+print(age)
+
+#variables
+nombre_curso = "Python"
+print(nombre_curso)
